@@ -11,6 +11,6 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	font-family: 'Noto Sans TC', sans-serif;
 }
 
-.pagination {
-	align-items: center;
+.pagination.justify-content-center{
+	margin: 0 auto;
 }
