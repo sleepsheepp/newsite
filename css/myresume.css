@@ -18,3 +18,9 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 .col-lg-6 {
 	padding: 20px;
 }
+
+
+.container {
+	margin: auto;
+	padding: auto;
+}
