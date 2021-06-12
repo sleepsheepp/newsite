@@ -40,4 +40,9 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     margin-top: calc(var(--bs-gutter-y) * -1);
     margin-right: calc(var(--bs-gutter-x) / -2);
     margin-left: calc(var(--bs-gutter-x) / -2);
+	
+    vertical-align: middle;
+}
+.mx-auto rounded-circle {
+	vertical-align: middle;
 }
