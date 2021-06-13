@@ -55,9 +55,6 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	margin-right: 0.5rem ;
     margin-left: 0.5rem ;
 	color: #fff;
-    background-color: #212529;
+    background-color: #0033FF;
     border-color: #212529;
-}
-.text-primary{
-    color: #00d7e6!important;
 }
