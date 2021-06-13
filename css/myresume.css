@@ -1,6 +1,6 @@
   body {
 	font-family: 'Noto Sans TC', sans-serif;
-    background-color:#B0E0E6
+    background-color:#D1EDF2；
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
@@ -57,4 +57,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	color: #fff;
     background-color:#00477D;
     border-color:#00477D;
+}
+section{
+	background-color:#D1EDF2；
 }
