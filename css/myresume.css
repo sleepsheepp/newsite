@@ -59,7 +59,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     border-color: #212529;
 }
 
-.bg-dark {
+.navbar.navbar-expand-lg.navbar-dark.bg-dark {
     background-color: #796400 ;
 }
 	
