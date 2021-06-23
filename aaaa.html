@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+	</head>
+	<body>
+		<img src="assets/img/1.jpg" alt="" id="img1"/>
+	</body>
+	<script type="text/javascript" src="../public.js"></script>
+    <script type="text/javascript">
+        //隨機換圖
+        var img=document.getElementById("img1");
+        var num=1;
+	    var timer=setInterval(function(){
+		    num=getRand(1,4);
+		    img.src="aseets/img/"+(num)+".jpg";
+	    },1000);
+	
+	</script>
+</html>
+
